@@ -1,5 +1,21 @@
 # Change Log
 
+## 1.7.0
+
+### Minor Changes
+
+- [`f032942c8`](https://github.com/chakra-ui/chakra-ui/commit/f032942c8a2568a3a23baee0d5972834345e5fa6)
+  [#3447](https://github.com/chakra-ui/chakra-ui/pull/3447) Thanks
+  [@dodas](https://github.com/dodas)! - `TabPanels` component can now be styled
+  from `Tabs` component theme, specifying the `tabpanels` part.
+
+### Patch Changes
+
+- [`7efc9c217`](https://github.com/chakra-ui/chakra-ui/commit/7efc9c217789b2b314ed629c94b947256e8cbe2c)
+  [#3454](https://github.com/chakra-ui/chakra-ui/pull/3454) Thanks
+  [@tomdohnal](https://github.com/tomdohnal)! - fix full size modal with
+  y-overflowing content behaviour
+
 ## 1.6.2
 
 ### Patch Changes
